@@ -3,17 +3,11 @@ Gogh
 
 ![elementary](https://raw.githubusercontent.com/Mayccoll/Gogh/master/images/gogh/Gogh-icons.png)
 
-## Color Scheme for Gnome Terminal and Pantheon Terminal
+## Color Scheme for Gnome Terminal and Konsole
 
-Color Schemes For Ubuntu, Linux Mint, Elementary OS and all distributions that use gnome terminal or Pantheon Terminal, initially inspired by Elementary OS Luna. You can check all themes [here...](https://github.com/Mayccoll/Gogh/blob/master/content/themes.md)
+A fork of [Gogh](https://github.com/Mayccoll/Gogh), with konsole support.
 
 ![elementary](https://raw.githubusercontent.com/Mayccoll/Gogh/master/images/demos/themes.gif)
-
-----
-
-
-<br/>
-<br/>
 
 ## Pre-Install
 
@@ -21,37 +15,14 @@ Color Schemes For Ubuntu, Linux Mint, Elementary OS and all distributions that u
 $ sudo apt-get install dconf-cli
 ```
 
-## [Install](https://github.com/Mayccoll/Gogh/blob/master/content/install.md)
+<br/>
+<br/>
 
-Just copy and paste One line command.
+## Install Color Schemes
 
 ```bash
-  $  wget -O gogh https://git.io/vQgMr && chmod +x gogh && ./gogh && rm gogh
+$ git clone https://github.com/mengxuehu/Gogh && python Gogh/gogh.py
 ```
-
-**DEMO:**
-
-![gogh-demo-profile](https://raw.githubusercontent.com/Mayccoll/Gogh/master/images/demos/gogh-demo-profile.gif)
-
-<br/>
-<br/>
-
-
-## [Themes](https://github.com/Mayccoll/Gogh/blob/master/content/themes.md)
-
-We have lots of themes. Check them out! [Here...](https://github.com/Mayccoll/Gogh/blob/master/content/themes.md)
-
-
-<br/>
-<br/>
-
-
-
-## [How to](https://github.com/Mayccoll/Gogh/blob/master/content/howto.md)
-
-If you want to create your own color scheme or contribute to the project. [Here...](https://github.com/Mayccoll/Gogh/blob/master/content/howto.md)
-
-
 
 <br/>
 <br/>
